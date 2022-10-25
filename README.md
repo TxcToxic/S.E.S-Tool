@@ -16,3 +16,8 @@ py -3.10 -m pip install requests
 1) python3.10 -m pip install requests
 2) python3 -m pip install requests
 ```
+# What you have to do:
+1) Change in "Program Source/main.py" the requestings
+2) Change in "Websites/how/index.php" the request
+3) Change in "Websites/dl/index.php" the request
+4) Change in "Websites/changelog/index.php" the request
